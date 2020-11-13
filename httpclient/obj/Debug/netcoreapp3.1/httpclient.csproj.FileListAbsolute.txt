@@ -1,0 +1,12 @@
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.AssemblyInfo.cs
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Debug\netcoreapp3.1\httpclient.deps.json
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Debug\netcoreapp3.1\httpclient.runtimeconfig.json
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Debug\netcoreapp3.1\httpclient.runtimeconfig.dev.json
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Debug\netcoreapp3.1\httpclient.dll
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.genruntimeconfig.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Debug\netcoreapp3.1\httpclient.pdb
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.dll
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Debug\netcoreapp3.1\httpclient.pdb

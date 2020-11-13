@@ -1,0 +1,12 @@
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Release\netcoreapp3.1\linux-x64\httpclient.deps.json
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Release\netcoreapp3.1\linux-x64\httpclient.runtimeconfig.json
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Release\netcoreapp3.1\linux-x64\httpclient.runtimeconfig.dev.json
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Release\netcoreapp3.1\linux-x64\httpclient.dll
+C:\Users\Juan\source\repos\httpclient\httpclient\bin\Release\netcoreapp3.1\linux-x64\httpclient.pdb
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.AssemblyInfo.cs
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.dll
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.pdb
+C:\Users\Juan\source\repos\httpclient\httpclient\obj\Release\netcoreapp3.1\linux-x64\httpclient.genruntimeconfig.cache
