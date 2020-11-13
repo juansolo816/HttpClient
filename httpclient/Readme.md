@@ -1,8 +1,9 @@
-# Empty AWS Serverless Application Project
+# Http Client AWS Serverless Application 
 
 This starter project consists of:
 * serverless.template - an AWS CloudFormation Serverless Application Model template file for declaring your Serverless functions and other AWS resources
 * Function.cs - class file containing the C# method mapped to the single function declared in the template file
+* Person.cs - class file containing Person object
 * aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
 
 You may also have a test project depending on the options selected.
